@@ -1,0 +1,13 @@
+Package: pacifica-icon-theme
+Version: 0.4.1
+Architecture: all
+Maintainer: Francisco Villarroel <fsvh@me.com>
+Installed-Size: 22275
+Section: graphics
+Priority: optional
+Homepage: https://github.com/fsvh/pacifica-icon-theme
+Description: Icon theme made by an elementary user.
+ Another Icon Theme for Linux. 
+ .
+ This pack is a mixture of many flavours like (Faenza/ Faience, Moka, 
+ Nitrux, Elementary and more).
